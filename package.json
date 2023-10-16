@@ -1,7 +1,7 @@
 {
-  "name": "@ampt-templates/javascript-empty",
+  "name": "@ampt-templates/javascript-starter",
   "version": "1.0.0",
-  "description": "Ampt Empty JavaScript template",
+  "description": "Ampt JavaScript template",
   "private": true,
   "main": "index.js",
   "type": "module",
@@ -9,6 +9,6 @@
     "start": "ampt"
   },
   "ampt": {
-    "app": "javascript-empty"
+    "app": "javascript-starter"
   }
 }
