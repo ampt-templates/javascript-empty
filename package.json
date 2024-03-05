@@ -6,9 +6,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "ampt"
+    "start": "ampt",
+    "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "ampt": {
-    "app": "javascript-starter"
+    "app": "",
+    "org": ""
   }
 }

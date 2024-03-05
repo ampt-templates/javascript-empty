@@ -1,2 +1,3 @@
 node_modules/
-.ampt/
+.ampt/.amptrc
+.ampt*rc
